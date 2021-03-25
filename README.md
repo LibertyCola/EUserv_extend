@@ -1,5 +1,5 @@
 # EUserv_extend
-使用Github Action自动续期EUserv免费IPv6 VPS脚本..。.11
+使用Github Action自动续期EUserv免费IPv6 VPS脚本..。.1
 .3。
 
 ## 说明
